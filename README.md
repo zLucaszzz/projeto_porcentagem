@@ -10,7 +10,6 @@ Repositório com código de cálculo de porcentagem, mostrando versão ruim e ve
 - `codigo_refatorado.py`: versão orientada a objetos com Design Pattern Strategy.
 - `test_codigo.py`: testes unitários com unittest.
 - `relatorio.pdf`: relatório detalhado.
-- `apresentacao.pdf`: apresentação de 5 slides.
 
 ## Como rodar
 
